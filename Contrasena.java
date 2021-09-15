@@ -6,6 +6,7 @@ public class Contrasena{
   String User = "";
   String Password = "";
   Scanner entrada = new Scanner(System.in);
+  Int number_proof = 0;
  
   System.out.print("Username name: ");
   User = entrada.nextLine();
