@@ -11,6 +11,8 @@ public class Din_Matrices{
   f = input.nextInt();
   System.out.print("Columnas: ");
   c = input.nextInt();
+  int number_proof = 0;
+
 
   float matriz [][] = new float [f][c];
 
